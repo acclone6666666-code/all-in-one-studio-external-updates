@@ -1,6 +1,6 @@
 # All In One Studio External
 
-**[Tải bộ cài đầy đủ 2.2.27 — Setup EXE](https://github.com/acclone6666666-code/all-in-one-studio-external-updates/releases/download/v2.2.27/AllInOneStudioExternal-Setup-2.2.27.exe)**
+**[Tải bộ cài đầy đủ 2.2.28 — Setup EXE](https://github.com/acclone6666666-code/all-in-one-studio-external-updates/releases/download/v2.2.28/AllInOneStudioExternal-Setup-2.2.28.exe)**
 
 Máy mới: tải Setup EXE, chạy cài đặt, mở **All In One Studio External** và nhập KEY được Admin cấp. Có sẵn thư viện GPU/CPU, FFmpeg và model giọng đọc; không cần cài Python.
 
@@ -8,4 +8,4 @@ Máy mới: tải Setup EXE, chạy cài đặt, mở **All In One Studio Extern
 
 [Tất cả phiên bản](https://github.com/acclone6666666-code/all-in-one-studio-external-updates/releases)
 
-Giao diện gọn: kết quả cạnh video gốc, nhận bản dịch tiếng Anh từ phần mềm khác, giọng Adam / Kokoro ONNX và dựng Review. Thiết lập audio nằm trong nút bánh răng. Sau bước 3, tự nén TXT và gửi ZIP qua bot Telegram nhận bản dịch. Chỉ có quản lý KEY; không có trợ giúp hay điều khiển từ xa. Không có Muse/Codex/AI Auto-Fix. Dự án này có kênh cập nhật riêng với Studio cũ.
+Giao diện gọn: kết quả cạnh video gốc, nhận bản dịch tiếng Anh từ phần mềm khác, giọng Adam / Kokoro ONNX và dựng Review. Thiết lập audio nằm trong nút bánh răng. Sau bước 3, tự nén TXT và gửi ZIP qua bot Telegram. Chọn dự án trong bot rồi gửi ZIP bản dịch; tool tự nhận, kiểm tra và chạy tiếp Audio → MP4. Chỉ có quản lý KEY; không có trợ giúp hay điều khiển từ xa. Không có Muse/Codex/AI Auto-Fix. Dự án này có kênh cập nhật riêng với Studio cũ.
