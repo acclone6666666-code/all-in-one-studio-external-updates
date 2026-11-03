@@ -1,6 +1,6 @@
 # All In One Studio External
 
-**[Tải bộ cài đầy đủ 2.2.28 — Setup EXE](https://github.com/acclone6666666-code/all-in-one-studio-external-updates/releases/download/v2.2.28/AllInOneStudioExternal-Setup-2.2.28.exe)**
+**[Tải bộ cài đầy đủ 2.2.29 — Setup EXE](https://github.com/acclone6666666-code/all-in-one-studio-external-updates/releases/download/v2.2.29/AllInOneStudioExternal-Setup-2.2.29.exe)**
 
 Máy mới: tải Setup EXE, chạy cài đặt, mở **All In One Studio External** và nhập KEY được Admin cấp. Có sẵn thư viện GPU/CPU, FFmpeg và model giọng đọc; không cần cài Python.
 
